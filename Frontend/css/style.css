@@ -78,3 +78,6 @@ ul li.checked::before {
     color: white;
 }
   
+#updat_form{
+    display: none;
+}
